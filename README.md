@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dragiyski
 - 👀 I’m interested in Web Technologies, Web Standards, NodeJS, Python, Computer Graphics
-- 🌱 I’m currently learning WebRTC, Android
+- 🌱 I’m currently learning WebGPU, and Vulkan
 - 💞️ I’m looking to collaborate on Web Standards
 - 📫 How to reach me by email: plamen@dragiyski.org
 
